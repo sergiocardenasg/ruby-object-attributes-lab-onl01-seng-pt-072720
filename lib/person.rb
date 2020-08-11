@@ -1,8 +1,8 @@
 class Person
 
   def initialize(name, job)
-    @dog_name = dog_name
-    @dog_breed = dog_breed
+    @name = name
+    @job = job
   end
 
   def name=(dog_name)
