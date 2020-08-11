@@ -19,4 +19,3 @@ class Dog
     @dog_breed
   end
 end
-
