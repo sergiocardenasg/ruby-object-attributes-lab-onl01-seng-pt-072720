@@ -20,4 +20,3 @@ class Dog
   end
 end
 
-iker = Dog.new("Iker")
