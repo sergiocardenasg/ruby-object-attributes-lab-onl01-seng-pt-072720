@@ -13,13 +13,11 @@ class Person
     @name
   end
 
-  def breed=(dog_breed)
-    @dog_breed = dog_breed
+  def job=(job)
+    @job = job
   end
 
   def job
     @job
   end
 end
-
-iker = Dog.new("Iker", "Schnauzer")
