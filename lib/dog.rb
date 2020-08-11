@@ -21,5 +21,3 @@ class Dog
     @dog_breed
   end
 end
-
-iker = Dog.new("Iker", "Schnauzer")
